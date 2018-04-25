@@ -1,0 +1,8 @@
+{
+    "listen_port": "8228",
+    "list": {
+        "a.intely.cn": {
+            "/get_name": "http://rapapi.org/mockjsdata/31625/login/get_name"
+        }
+    }
+}

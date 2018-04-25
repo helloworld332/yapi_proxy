@@ -1,0 +1,17 @@
+{
+    "listen_port": "8230",
+    "list": {
+        "a.intely.cn": {
+            "/get_name": "http://rapapi.org/mockjsdata/31625/login/get_name"
+        },
+        "dev.intely.cn": {
+            "/login": "http://rapapi.org/mockjsdata/31625/login"
+        },
+        "fm.fenqile.com": {
+            "/routev2/other/getSearchKeyword.json": "http://yapi.demo.qunar.com/mock/5135/FQL"
+        },
+        "m.fenqile.com": {
+            "/search/query_search_key.json": "http://yapi.demo.qunar.com/mock/5135/search/query_search_key.json"
+        }
+    }
+}

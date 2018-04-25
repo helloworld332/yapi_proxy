@@ -1,0 +1,15 @@
+[program:server_name]
+command=intely/bin/server
+directory=intely/bin
+autorestart=true
+autostart=true
+startsecs=10
+stdout_logfile=intely/log/log.log
+stdout_logfile_maxbytes=100mb
+stdout_capture_maxbytes=0
+stdout_logfile_backups=20
+stderr_logfile=intely/log/err.log
+stderr_logfile_maxbytes=100MB
+stderr_logfile_backups=20
+stderr_capture_maxbytes=0
+
