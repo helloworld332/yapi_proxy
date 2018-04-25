@@ -15,7 +15,7 @@ yapi和rap的官方网址如下，建议使用yapi，功能更齐全，团队支
 - 具体实用方法请看代码的doc目录下的使用手册
 
 # 项目依赖
-- 依赖goproxy[https://github.com/elazarl/goproxy]，它是我们做代理的底层
+- 依赖goproxy[https://github.com/elazarl/goproxy] ， 它是我们做代理的底层
 
 # 核心代码目录
 - server: 代理的核心代码
